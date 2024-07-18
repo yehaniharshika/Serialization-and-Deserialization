@@ -45,7 +45,7 @@ For this,
 -	An ObjectOutputStream is created to handle the serialization.
 -	The writeObject() method of ObjectOutputStream serializes the student object and writes it to the file "student.ser".
 
-![Screenshot (19)](https://github.com/user-attachments/assets/88136448-f19b-4ec5-b5db-e103916e44ed)
+![Screenshot (24)](https://github.com/user-attachments/assets/ec9ca5ea-06c3-42ca-aaad-2fc338f8dcac)
 
 As third, Deserialize the Student Object - In this step, the Student object is deserialized from the file "student.ser".
 For this,
@@ -53,7 +53,7 @@ For this,
 -	An ObjectInputStream is created to handle the deserialization.
 -	The readObject() method of ObjectInputStream deserializes the student object from the file student.ser.
 
-![Screenshot (21)](https://github.com/user-attachments/assets/68dc5093-132b-4237-92e7-9d1466955e47)
+![Screenshot (23)](https://github.com/user-attachments/assets/5eac3960-4e45-431d-9d35-0b41a2de66a8)
 
 For the complete code and further details, visit the GitHub repository. I implement Serialization and Deserialization completely.
 https://github.com/yehaniharshika/Serialization-and-Deserialization.git
