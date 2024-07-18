@@ -46,6 +46,7 @@ For this,
 -	The writeObject() method of ObjectOutputStream serializes the student object and writes it to the file "student.ser".
 
 
+![Uploading Screenshot (20).png…]()
 
   
 As third, Deserialize the Student Object - In this step, the Student object is deserialized from the file "student.ser".
