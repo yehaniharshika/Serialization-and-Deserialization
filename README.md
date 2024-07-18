@@ -5,6 +5,7 @@
 Serialization is a mechanism of converting the state of an object into a byte stream, allowing the object to be easily saved to a file, transmitted over a network, or stored in memory. 
 Deserialization is the reverse process, converting the byte stream back into a copy of the original object. These processes are fundamental in Java for enabling object persistence and data interchange.
 
+![image](https://github.com/user-attachments/assets/f7ff64e6-8bff-4bcd-b763-2a28bf632482)
 
 ![image](https://github.com/user-attachments/assets/9cdd716e-47ef-437c-9f43-a12ad7f44164)
 
@@ -24,7 +25,9 @@ The ObjectOutputStream and ObjectInputStream classes are used to perform the act
 •	Serialization steps
 
 I.	Implement Serializable interface
-II.	Create ObjectOutputStream - An ObjectOutputStream is created to write the object to an output stream
+
+II.	Create ObjectOutputStream - An ObjectOutputStream is created to write the object to an output stream.
+
 III.	Serialize object - The writeObject() method of ObjectOutputStream is used to serialize the object.
 
 •	Deserialization steps
