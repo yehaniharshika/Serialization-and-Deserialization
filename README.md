@@ -27,7 +27,7 @@ III.	Serialize object - The writeObject() method of ObjectOutputStream is used t
 
 •	Deserialization steps
 
-I.	Create ObjectInputStream: An ObjectInputStream is created to read the object from an input stream.<br>
+I.	Create ObjectInputStream - An ObjectInputStream is created to read the object from an input stream.<br>
 II.	Deserialize object – use readObject() method
 
 <b>Example Code Snippet and Hypothetical Scenario</b>
