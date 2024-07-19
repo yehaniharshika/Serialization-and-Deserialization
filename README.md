@@ -2,7 +2,7 @@
 
 <b>Introduction</b>
 
-Serialization is a mechanism of converting the state of an object into a byte stream, allowing the object to be easily saved to a file, transmitted over a network, or stored in memory. 
+Serialization is a mechanism of converting the state of an object into a byte stream, allowing the object to be easily saved to a file, transmitted over a network, or stored in memory.<br><br> 
 Deserialization is the reverse process, converting the byte stream back into a copy of the original object. These processes are fundamental in Java for enabling object persistence and data interchange.
 
 
